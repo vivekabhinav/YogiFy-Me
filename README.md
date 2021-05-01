@@ -6,7 +6,7 @@
 
 ## Click on the link for application - https://yogifyme-de25e.web.app/
 
-## PPT link - https://drive.google.com/file/d/1duqZnXCPZBgw6V0uc5p2qisuqI0YK1jJ/view
+## PPT link - https://drive.google.com/file/d/1rnvY8oJq0FCm54TzBlHNBUmWWLun3dkp/view?usp=sharing
 
 ## Problem Statement
 
