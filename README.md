@@ -2,7 +2,7 @@
 
 
 ## Click on the video for demo
-## Video Demo Link-- (https://youtu.be/exySAMUWrvs)
+## Video Demo Link-- (https://youtu.be/XoNuuJrmM0o)
 
 ## Click on the link for application - https://yogifyme-de25e.web.app/
 
