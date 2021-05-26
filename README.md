@@ -1,5 +1,6 @@
 # Yogify-Me
 
+Made by Abhinav, Saksham, Muazzam and Tanmaya
 
 ## Click on the video for demo
 ## Video Demo Link-- (https://youtu.be/XoNuuJrmM0o)
